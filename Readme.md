@@ -1,4 +1,4 @@
-<b>Predicting Customer Churn in a Telecommunications Company</b>
+# Predicting Customer Churn in a Telecommunications Company
 
 Introduction
 
@@ -74,5 +74,5 @@ Key Insights and Conclusion.
 Upon completion of the project, I'll write a blog post on my thought process on medium, LinkedIn, personal blog, or any other suitable blogging site.
 
 
-# Done By 
+# Done By
 Lingareddy Tejaswar Reddy
