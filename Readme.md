@@ -1,4 +1,4 @@
-Predicting Customer Churn in a Telecommunications Company
+<b>Predicting Customer Churn in a Telecommunications Company</b>
 
 Introduction
 
