@@ -1,4 +1,4 @@
-# Classification -- Predicting Customer Churn
+Predicting Customer Churn in a Telecommunications Company
 
 Introduction
 
@@ -74,5 +74,5 @@ Key Insights and Conclusion.
 Upon completion of the project, I'll write a blog post on my thought process on medium, LinkedIn, personal blog, or any other suitable blogging site.
 
 
-# Author
-Jacob O. Jaroya , Felix, Kingsley, Sylvester
+# Done By 
+Lingareddy Tejaswar Reddy
